@@ -1,0 +1,46 @@
+{
+    "timestamp": "2024-12-03 07:14:25",
+    "request": {
+        "message": {
+            "token": "e48J-tS7v5GTqeo2RT4zBM:APA91bGnO_sAsEF7YSgJYF1JOjMpxYo1hHKuZscz0pUWpSZk3FX0qbWSqYSgRByIlt1YLac6RQpS-r_Y6cmlUCUEzcUwdcBISXGCTpsMZyAUoZHN7zE9ozo",
+            "notification": {
+                "title": "New Message",
+                "body": "awds"
+            },
+            "webpush": {
+                "notification": {
+                    "click_action": "http:\/\/localhost\/testNotification\/"
+                }
+            }
+        }
+    }
+}
+{
+    "timestamp": "2024-12-03 07:14:25",
+    "response": {
+        "name": "projects\/testnotification-ebd59\/messages\/f8f7d361-6026-4da2-bb03-9c8d40d84f3a"
+    }
+}
+{
+    "timestamp": "2024-12-12 09:59:33",
+    "request": {
+        "message": {
+            "token": "e48J-tS7v5GTqeo2RT4zBM:APA91bGnO_sAsEF7YSgJYF1JOjMpxYo1hHKuZscz0pUWpSZk3FX0qbWSqYSgRByIlt1YLac6RQpS-r_Y6cmlUCUEzcUwdcBISXGCTpsMZyAUoZHN7zE9ozo",
+            "notification": {
+                "title": "New Message",
+                "body": "wdwad"
+            },
+            "webpush": {
+                "notification": {
+                    "click_action": "http:\/\/localhost\/testNotification\/"
+                }
+            }
+        }
+    }
+}
+{
+    "timestamp": "2024-12-12 09:59:34",
+    "response": {
+        "name": "projects\/testnotification-ebd59\/messages\/021f4a8d-1bfe-4fc2-a98e-d87791b7ef3c"
+    }
+}
